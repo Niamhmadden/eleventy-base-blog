@@ -8,4 +8,4 @@ tags:
   - videos
 ---
 
-<a href="https://youtu.be/WJigEBef8Yc?si=wwux8ezd0S7po_ta" target="_blank">Introduction to ARIA (opens in a new tab)</a>
+1. <a href="https://youtu.be/WJigEBef8Yc?si=wwux8ezd0S7po_ta" target="_blank">Introduction to ARIA (opens in a new tab)</a>
