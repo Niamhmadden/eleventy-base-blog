@@ -9,4 +9,4 @@ tags:
 ---
 
 1. <a href="https://youtu.be/WJigEBef8Yc?si=wwux8ezd0S7po_ta" target="_blank">Introduction to ARIA (opens in a new tab)</a>
-2. <a href="https://youtu.be/O8_DaNegYK8?si=XZLRv7_TItMOmqm_"target="_blank">Rules of ARIA (opens in a new tab)</a>
+2. <a href="https://youtu.be/O8_DaNegYK8?si=8zrmXbdcRW3xN12-" target="_blank">Rules of ARIA (opens in a new tab)</a>
