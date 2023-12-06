@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # About me
 
-Hey there, i'm Niamh. I'm developer and writer.
+Hey there, i'm Niamh. I'm a developer and writer.
 
 I mainly write about the web, accessibility, and content writing on my blog but I also write about anything I find interesting or insightful.
 
