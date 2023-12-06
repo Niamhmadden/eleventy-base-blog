@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Dark Horse A11y",
+	title: "Niamh Madden",
 	url: "https://example.com/",
 	language: "en",
 	description: "",

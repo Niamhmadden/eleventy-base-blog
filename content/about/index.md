@@ -7,14 +7,14 @@ eleventyNavigation:
 
 # About me
 
-Hey there, i'm Niamh. I'm a Frontend developer currently working at Sage. I work with HTML, Javascript, and React and i'm interested in how we can build products that are usable and accessible.
+Hey there, i'm Niamh. I'm developer and writer.
 
-I mainly write about the web and accessibility on my blog but I also write about anything I find interesting or insightful.
+I mainly write about the web, accessibility, and content writing on my blog but I also write about anything I find interesting or insightful.
 
 When i'm not working, I enjoy:
 
 - walking my pitbull
-- powerlifting
+- weightlifting
 - cold water swimming
 - reading
 

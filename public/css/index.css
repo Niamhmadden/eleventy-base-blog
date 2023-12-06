@@ -13,11 +13,11 @@
 	--color-gray-50: #c0c0c0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #0e161d;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
+	--text-color-link: #50acf7;
+	--text-color-link-active: #8787d5;
 	--text-color-link-visited: #17050f;
 
 	--syntax-tab-size: 2;
@@ -30,11 +30,11 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
+		--text-color-link: #50acf7;
+		--text-color-link-active: #8787d5;
 		--text-color-link-visited: #a6a6f8;
 
-		--background-color: #15202b;
+		--background-color: #0b1218;
 	}
 }
 
