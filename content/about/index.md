@@ -7,15 +7,14 @@ eleventyNavigation:
 
 # About me
 
-Hey there, i'm Niamh. I'm a developer and writer.
+## Hey there, i'm Niamh.
 
-I mainly write about the web, accessibility, and content writing on my blog but I also write about anything I find interesting or insightful.
+I've been a writer for as long as I can remember.
 
-When i'm not working, I enjoy:
+I'm a self taught front end developer.
 
-- walking my pitbull
-- weightlifting
-- cold water swimming
-- reading
+As Dan Koe beautifully puts it...
+
+"The universe rewards those who don't impose their own limits."
 
 Contact me: [niamhmaddencontent@gmail.com](mailto:niamhmaddencontent@gmail.com)
