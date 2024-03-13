@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: "Niamh Madden"
 ---
 
 # Hello World
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+<iframe src="https://embeds.beehiiv.com/483ee00a-dc5a-4572-982d-cb4058e9f3dc" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>

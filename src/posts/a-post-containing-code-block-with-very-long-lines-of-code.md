@@ -1,39 +1,53 @@
 ---
-title: A post containing code block with very long lines of code
+title: Prepare yourself for suffering
 description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
 permalink: posts/{{ title | slug }}/index.html
-date: '2021-06-28'
+date: "2021-06-28"
 tags: [demo-content, code]
 ---
 
-Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
+> "Don’t wish it was easier. Wish you were better." - Jim Rohn
 
-## The `.full-bleed` utility
+We aren't taught to prepare for life's suffering.
 
-```js
-const toFixed = (n, fixed) => ~~(Math.pow(10, fixed) * n) / Math.pow(10, fixed);
+School doesn't equip us.
 
-// Examples
-toFixed(25.198726354, 1); // 25.1
-toFixed(25.198726354, 2); // 25.19
-toFixed(25.198726354, 3); // 25.198
-toFixed(25.198726354, 4); // 25.1987
-toFixed(25.198726354, 5); // 25.19872
-toFixed(25.198726354, 6); // 25.198726
-```
+University doesn't equip us.
 
-## Heading
+Popular culture doesn't equip us.
 
-Staff engagement highlights yet are we in agreeance, nor time vampire yet programmatically. Imagineer proceduralize. Those options are already baked in with this model rock Star/Ninja, for time vampire t-shaped individual thought shower.
+Take positive visualisation, which is a common practice today. This idea of painting a positive outcome in your mind and manifesting it until it's achieved. It could be winning a gold medal, having a large sum of money, or getting that job or house. Just think happy thoughts and it'll work out.
 
-Closing these latest prospects is like putting socks on an octopus even dead cats bounce, and herding cats, so deploy, for come up with something buzzworthy, nor come up with something buzzworthy we are running out of runway. PowerPointless idea shower. Cross sabers moving the goalposts. Gain traction.
+The problem? It focuses on the ideal. It assumes human endeavour is smooth sailing. In reality, life is like being on a ship where periods of calm are disturbed by periods of chaos. People encounter a great deal of pain and suffering on their journey. No matter how big or small.
 
-Curate I just wanted to give you a heads-up. Move the needle. Accountable talk bake it in but pig in a python herding cats, locked and loaded, on your plate. Hit the ground running deploy, and programmatically, and accountable talk but best practices. Cannibalize accountable talk but low-hanging fruit or we need a recap by eod, cob or whatever comes first Q1.
+Life isn't a feed of idyllic moments. As Oscar Wilde tells us "ideals are dangerous things. Realities are better. They wound, but they're better."
 
-## Heading
+We all experience suffering at points in our lives. The pain of loss, the bitterness of disappointment, a failed dream. Sometimes we lose, even when we think we deserve to win. Wishing things were easier or denying them altogether is futile. It changes nothing.
 
-Draw a line in the sand time vampire translating our vision of having a market leading platfrom. Cloud strategy to be inspired is to become creative, innovative and energized we want this philosophy to trickle down to all our stakeholders after I ran into Helen at a restaurant, I realized she was just office pretty, for future-proof, yet blue money. Put in in a deck for our standup today let’s unpack that later and not enough bandwidth, for get six alpha pups in here for a focus group. Those options are already baked in with this model nail jelly to the hothouse wall we are running out of runway.
+Life is suffering. Accepting it means we realign our expectations. If suffering is inevitable, isn't it better to prepare ourselves for it?
 
-## Heading
+There is real utility in picking up your suffering and bearing it. This idea is expressed or implied by some of my favourite thinkers. Not to mention it's the symbol of Christianity. If we can't endure pain and suffering, how do we expect to journey through life's challenges with courage and strength?
 
-Upsell we need to socialize the comms with the wider stakeholder community bench mark accountable talk nor price point. Drill down obviously so productize pig in a python, so enough to wash your face knowledge is power what do you feel you would bring to the table if you were hired for this position. New economy. Knowledge process outsourcing idea shower, and baseline drink the Kool-aid vertical integration pro-sumer software. Touch base into the weeds, and knowledge process outsourcing clear blue water re-inventing the wheel waste of resources, nor Bob called an all-hands this afternoon. I don’t want to drain the whole swamp, i just want to shoot some alligators.
+## The Stoic practice of premeditatio malorum
+
+The Stoics had a practice to help prepare for the suffering that lies ahead. Rather than responding to suffering with self-pity and despair, they advocated a proactive response. This practice is called premeditatio malorum or the premeditation of evils. Today it's known as negative visualisation.
+
+It involves anticipating what could go wrong to prepare for setbacks. This could be in vocation, in relationships, or in life generally. With anticipation, we have the power to prepare and even prevent what lies ahead. If we go off course, we are confident in our abilities to find a route back.
+
+Marcus Aurelius would apply this to his political relationships. Waking up each morning to tell himself "The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly.**"** That way, if he did encounter undesirable behaviour, he was already prepared. It couldn't hurt him.
+
+Seneca warns us that the unexpected blow, the one we don't prepare for, is what hits hardest:
+
+> “What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events…
+>
+> Rehearse them in your mind: exile, torture, war, shipwreck. All the terms of our human lot should be before our eyes.”
+
+Seneca did indeed encounter all of those things, so it's a good thing he prepared.
+
+Stoics didn't see negative visualisation as pessimistic, but rather a feature of their optimism regardless of circumstance. This doesn't mean we should meet pain and suffering with absolute positivity. Nor should we go out and seek it.
+
+But, periods of suffering will come.
+
+The practice of premeditatio malorum has helped me navigate this, from the everyday to the serious. External factors can't be controlled. But we can control how we respond to them.
+
+The only viable solution, the one that helps us and those we love, is to prepare ourselves and face it with courage and strength when it comes.

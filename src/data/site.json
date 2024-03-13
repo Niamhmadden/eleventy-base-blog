@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Niamh Madden",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Niamh Madden",
+    "email": "niamhmaddencontent@gmail.com",
+    "twitterHandle": "theniamhmadden"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
