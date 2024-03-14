@@ -1,9 +1,8 @@
 ---
-title: Prepare yourself for suffering
-description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
-permalink: posts/{{ title | slug }}/index.html
-date: "2021-06-28"
-tags: [demo-content, code]
+title: Prepare for life's suffering
+date: "2024-03-13"
+tags: [stoicism, philosophy]
+decription:
 ---
 
 > "Don’t wish it was easier. Wish you were better." - Jim Rohn

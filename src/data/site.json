@@ -1,7 +1,5 @@
 {
   "name": "Niamh Madden",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
   "author": {
     "name": "Niamh Madden",
     "email": "niamhmaddencontent@gmail.com",
@@ -10,8 +8,8 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "Articles",
+      "url": "/articles",
       "external": false
     },
     {
@@ -20,27 +18,16 @@
       "external": false
     }
   ],
-  "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
-    }
-  ],
+
   "footerLinks": [
     {
-      "text": "RSS",
-      "url": "/feed.xml",
+      "text": "Twitter",
+      "url": "https://twitter.com/theniamhmadden",
+      "external": true
+    },
+    {
+      "text": "Email",
+      "url": "mailto:niamhmaddencontent@gmail.com",
       "external": true
     }
   ],
